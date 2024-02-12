@@ -1,3 +1,2 @@
 #!/bin/bash
-
-ls -a
+ls /path/to/your/directory
