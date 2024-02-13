@@ -1,5 +1,6 @@
 #!/bin/bash
-mkdir -p tmp/test_tree/welcome/to/school
+mkdir -p Welcome/ Welcome/to/ Welcome/to/school
+
 
 
 
