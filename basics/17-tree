@@ -1,4 +1,5 @@
 #!/bin/bash
-mkdir -p /tmp/test_tree/welcome/to/school
+mkdir -p tmp/test_tree/welcome/to/school
+
 
 
