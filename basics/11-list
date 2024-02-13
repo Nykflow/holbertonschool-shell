@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e \boot
+echo -e "\boot"
