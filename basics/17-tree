@@ -1,3 +1,4 @@
-#!/bin/bash 
+#!/bin/bash
+mkdir -p /tmp/test_tree/welcome/to/school 
 
 
