@@ -1,0 +1,4 @@
+iamafile > tmp
+
+git add .
+echo iamafile
