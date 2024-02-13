@@ -1,4 +1,5 @@
 #!/bin/bash
-mkdir -p Welcome/ Welcome/to/ Welcome/to/school/
+mkdir -p Welcome/{,to/{,school}}
+
 
 
