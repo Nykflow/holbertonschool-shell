@@ -1,0 +1,3 @@
+#!/bin/bash
+[ "$(whoami)" = "guillaume" ] && sudo chown vincent hello
+
