@@ -1,1 +1,2 @@
 #!/bin/bash
+grep -r --exclude-dir=bin /etc/passwd
